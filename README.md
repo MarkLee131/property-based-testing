@@ -15,15 +15,15 @@ A collection of Property-Based Testing research for self-study and reference.
 
 - https://johanneslink.net/model-based-testing/
 
-
+- https://www.youtube.com/watch?v=IYzDFHx6QPY
 
 ## Acknowledgements
 
-Thanks for Prof.Ting SU and Dr.Jingling Sun for their guidance and support.
+Thanks to Prof.Ting SU and Dr.Jingling SUN for their guidance and support.
 
 ## Contributing
 
-Please feel free to contribute to this repository by either opening issues or pull requests.
+Please feel free to contribute to this repository by either opening issues or creating pull requests.
 
 
 
