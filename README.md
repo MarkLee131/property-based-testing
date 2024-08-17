@@ -73,6 +73,23 @@ PBT is a property-based in & for Ruby.
 
 https://github.com/ohbarye/pbt
 
+
+## PBT Tools for Solidity Smart Contracts
+
+### Echidna
+
+A property-based fuzzer designed by Crytic that is used to find bugs in Ethereum smart contracts. 
+```
+
+https://github.com/crytic/echidna
+
+### ConCert
+
+ConCert is a framework for smart contract verification in Coq, of which the research paper was published in CAV 2022. 
+
+https://github.com/AU-COBRA/ConCert/
+
+
 ## Acknowledgements
 
 Thanks to Prof.Ting SU and Dr.Jingling SUN for their guidance and support.
